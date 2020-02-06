@@ -1,12 +1,11 @@
 
 public interface ITarjetaMonedero {
 
-	public String getId();	
+	public void comprar(float importe, String dni);
+
+	public String getId();
 
 	public String getDniTitular();
 
-	public int getSaldo();
-
-	public void setPin(int pin);
 
 }
