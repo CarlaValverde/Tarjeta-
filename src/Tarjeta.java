@@ -56,6 +56,8 @@ public class Tarjeta implements ITarjetaMonedero, ITarjetaDebito {
 	public String getId() {
 		return id;
 	}
+	
+	//se ha terminado la isius 6
 	@Override
 	public String getDniTitular() {
 		return dniTitular;
