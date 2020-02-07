@@ -6,17 +6,17 @@ debito, de credito o monedero.
 
 **GitHub** ⚙
 
-Este proyecto sera subido a [GitHub Pages](https://pages.github.com/) con la finalidad de poder mantener este proyecto controlado por nuestros colaboradores
+Este proyecto será subido a [GitHub Pages](https://pages.github.com/) con la finalidad de poder mantener este proyecto controlado por nuestros colaboradores.
 
 
 **Gitter** 📣
 
-Para comunicarnos y para nombrar y enlazar las tareas que realizaremos cada colaborador del proyecto. Hemos usado Gitter que es ua buena herramienta de comunicación para este tipo de proyectos
+Para comunicarnos y para nombrar y enlazar las tareas que realizaremos cada colaborador del proyecto, hemos usado Gitter que es la herramienta por excelencia de comunicación para este tipo de proyectos.
 
 
 **Colabradores:** 🖋
 
-- Juan amador
-- Carla valverde
-- Migel sovera
-- Felix parra
+- Juan Amador Rubio
+- Carla Valverde Santos
+- Migel Ángel Peña Soberá
+- Felix Antonio Parra Torres
