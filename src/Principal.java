@@ -7,5 +7,9 @@ public class Principal {
 		//FINAL DE LA TAREA 8
 		System.out.println("Pagando con una tarjeta:");
 		tarjeta.comprar(150, "12345678A");
+		System.out.println("Total de la factura de El Corte Ingles 150€:");
+		System.out.println("");
+		System.out.println("El saldo actual del monedero es: " + monedero.getSaldo());
+		System.out.println("Pagando con el monedero:");	
 	}
 }
