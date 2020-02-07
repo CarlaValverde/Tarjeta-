@@ -16,5 +16,6 @@ public class Principal {
 		monedero.comprar(34, "12345678Y");
 		System.out.println("El saldo actual del monedero es: " + monedero.getSaldo());
 		System.out.println("El dni del dueño del monedero es: " + monedero.getDniTitular());
+		System.out.println("Pagado con el monedero");
 	}
 }
